@@ -1,0 +1,17 @@
+.form-input {
+	background-color: #fff;
+    border-radius: 20px;
+}
+
+.p-l-0 {
+	padding-left: 0px !important;
+}
+
+.form-login {
+	text-align: center;
+    display: block;
+}
+
+.mt-12 {
+	margin-top: 12%;
+}

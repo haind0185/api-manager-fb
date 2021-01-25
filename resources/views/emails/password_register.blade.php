@@ -1,0 +1,1 @@
+<?php echo 'Your password: '.$data['password']; ?>
